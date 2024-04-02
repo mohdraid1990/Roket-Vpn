@@ -564,7 +564,7 @@ side-bar a:hover {
 }
 .type {
     position: absolute;
-    top: 63%;
+    top: 57%;
     display: flex;
     width: 100%;
     justify-content: space-around;
