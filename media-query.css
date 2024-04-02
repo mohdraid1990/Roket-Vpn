@@ -285,12 +285,14 @@
     flex-wrap: wrap;
     padding-left: 40px;
     margin-top: 450px;
+    justify-content: center;
   }
   side-bar {
     width: 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding-right: 30px;
   }
   .footer {
     width: 695px;
